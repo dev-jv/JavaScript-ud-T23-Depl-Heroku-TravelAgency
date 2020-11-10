@@ -1,5 +1,5 @@
 {
-  "name": "javascript-ud-t22-nodejs",
+  "name": "javascript-ud-t23-depl-heroku-travelagency",
   "version": "1.0.0",
   "description": "Proyecto con Node.js",
   "main": "index.js",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dev-jv/JavaScript-ud-T22-NodeJS.git"
+    "url": "git+https://github.com/dev-jv/JavaScript-ud-T23-Depl-Heroku-TravelAgency.git"
   },
   "type": "module",
   "author": "dev-jv",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dev-jv/JavaScript-ud-T22-NodeJS/issues"
+    "url": "https://github.com/dev-jv/JavaScript-ud-T23-Depl-Heroku-TravelAgency/issues"
   },
-  "homepage": "https://github.com/dev-jv/JavaScript-ud-T22-NodeJS#readme",
+  "homepage": "https://github.com/dev-jv/JavaScript-ud-T23-Depl-Heroku-TravelAgency#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
     "dotenv": "^8.2.0",
@@ -26,8 +26,6 @@
     "nodemon": "^2.0.6",
     "pug": "^3.0.0",
     "sequelize": "^6.3.5"
-  }
+  },
+  "devDependencies": {}
 }
-
-
-
